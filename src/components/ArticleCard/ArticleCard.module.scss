@@ -1,0 +1,12 @@
+.articleCard {
+  display: flex;
+  padding-left: 16px;
+  padding-right: 16px;
+  gap: 8px;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  img {
+    width: 100%;
+  }
+}
